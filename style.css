@@ -8,13 +8,12 @@
 body {
   background-color: gray;
   font-family: "Montserrat", sans-serif;
-  max-width: 1600;
+  width: 1000px;
 }
 
 .main-container {
   background-color: white;
   margin: auto;
-  max-width: 1600px;
   padding-bottom: 50px;
 }
 
