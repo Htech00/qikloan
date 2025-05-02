@@ -8,19 +8,20 @@
 body {
   background-color: gray;
   font-family: "Montserrat", sans-serif;
-  width: 1600px;
 }
 
 .main-container {
   background-color: white;
   margin: auto;
   padding-bottom: 50px;
+  width: 1600px;
 }
 
 .first-div-container {
   background: white;
   margin: auto;
   padding-top: 50px;
+  width: 1600px;
 }
 nav {
   display: flex;
