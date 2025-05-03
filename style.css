@@ -71,7 +71,7 @@ nav button {
 
 /* ============Section 2=============== */
 .section2 {
-  margin: auto;
+  margin: 30px auto;
   /* margin-left: 40px; */
   width: 1288px;
   display: flex;
@@ -170,6 +170,7 @@ nav button {
   border-radius: 40px;
   background-color: #f7f0fd;
   width: 1312px;
+  padding-bottom: 50px;
 }
 
 .section4-inner-div {
@@ -178,7 +179,7 @@ nav button {
   justify-content: center;
   gap: 80px;
   margin: auto;
-  padding-top: 30px;
+  padding-top: 50px;
 }
 
 .section4-sub-inner-div {
@@ -229,6 +230,7 @@ nav button {
   margin: 80px auto;
   background-color: #fcf4f7;
   gap: 40px;
+  padding: 50px 0;
 }
 
 .section5-first-div {
