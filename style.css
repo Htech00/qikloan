@@ -372,11 +372,13 @@ nav button {
   margin: 80px auto;
   background-color: #effbff;
   gap: 40px;
+  padding-bottom: 60px;
 }
 
 .section7-first-div {
   width: 1192px;
   display: flex;
+  margin-top: 40px;
   justify-content: space-between;
   margin-left: 60px;
 }
