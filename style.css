@@ -281,6 +281,11 @@ nav button {
   width: 482px;
 }
 
+.section5-p1 {
+  padding-bottom: 10px;
+  border-bottom: 2px solid #ff6aa3;
+}
+
 .section5-second-div-inner button {
   font-family: "Montserrat", sans-serif;
   font-size: 14px;
