@@ -160,8 +160,9 @@ nav button {
 
 .section2-rating {
   display: flex;
-  margin-top: 40px;
+  /* margin-top: 40px; */
   gap: 3px;
+  margin: 40px auto;
 }
 
 .section2-rating p {
